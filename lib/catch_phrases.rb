@@ -15,5 +15,6 @@ end
 
 def any_phrase(phrase)
   statusphrase = "Do A Barrel Roll!"
-  puts 
+  puts statusphrase
+end
   
