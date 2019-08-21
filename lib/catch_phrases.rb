@@ -12,4 +12,6 @@ def link
   statuslink = "It's Dangerous To Go Alone! Take This."
   puts statuslink
 end
+
+def
   
