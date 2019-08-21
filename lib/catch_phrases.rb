@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 
-def link
-  linkphrase = "It's Dangerous To Go Alone! Take This"
+
+  link = "It's Dangerous To Go Alone! Take This"
 end
   
